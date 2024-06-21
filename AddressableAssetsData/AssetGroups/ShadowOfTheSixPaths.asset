@@ -10,25 +10,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: ShadersHD
+  m_Name: ShadowOfTheSixPaths
   m_EditorClassIdentifier: 
-  m_GroupName: ShadersHD
+  m_GroupName: ShadowOfTheSixPaths
   m_Data:
     m_SerializedData: []
-  m_GUID: 230a76f1bba692e4b9bff48952144e59
+  m_GUID: eec51bc1e401f7040b5ae7e02465aa67
   m_SerializeEntries:
-  - m_GUID: a4cdf9b56c6185e44952f8a692db092b
-    m_Address: Shader.Collection
+  - m_GUID: d4749c1602b0ff0468dbbcdcc815bbf8
+    m_Address: SOTSP.Jutsu.LightningRelease.Chidori
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
-  - m_GUID: 2394eb041c679ca4dbc9d2410791df6a
-    m_Address: Shader.Collection.Sdk_PP
+  - m_GUID: e3cd1695ee923bb4ab215a8fe5a1a4c5
+    m_Address: SOTSP.Jutsu.LightningRelease.Chidori.SFX.start
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
-  - m_GUID: aace6cd978c055d4f9064b938cf6ff0c
-    m_Address: Shader.Collection.Sdk
+  - m_GUID: d6d2f5a301c5f814496f0d924a975ed9
+    m_Address: SOTSP.Jutsu.LightningRelease.Chidori.SFX.loop
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
@@ -36,5 +36,5 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: b14c4d9d8b63f3247be008fe8b53d3ae, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: c40f33f68ecd0134684907eb9ac1fb73, type: 2}
-    - {fileID: 11400000, guid: 0f2b4a6e68c85c743992a2a9c426d25c, type: 2}
+    - {fileID: 11400000, guid: 9f246e393cab0af49abafc3fad13d787, type: 2}
+    - {fileID: 11400000, guid: d90691383d9d42642bb473c5e647623e, type: 2}

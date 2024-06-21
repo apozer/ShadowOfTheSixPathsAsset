@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Water1 2
+  m_Name: Water1
   m_Shader: {fileID: -6465566751694194690, guid: c59228e2f1881574ea837716f384409a,
     type: 3}
   m_ValidKeywords: []
@@ -41,14 +41,14 @@ Material:
     m_Floats:
     - _QueueControl: 1
     - _QueueOffset: 0
-    - _disolve: 0.067
-    - _distortion: 0.47
-    - _normalTiling: 0.25
-    - _normal_strenth: 6.8
-    - _smoothness: 34.7
-    - _vertexDisplacement: 0.003
+    - _disolve: 0.036
+    - _distortion: -0.11
+    - _normalTiling: 6
+    - _normal_strenth: 10
+    - _smoothness: 1.39
+    - _vertexDisplacement: 0.53
     m_Colors:
-    - _specularColor: {r: 0.18333928, g: 0.3773585, b: 0.3544475, a: 0}
+    - _specularColor: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2844176654599190877
 MonoBehaviour:

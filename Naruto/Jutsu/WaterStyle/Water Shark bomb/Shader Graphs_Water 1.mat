@@ -7,20 +7,24 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Water1 2
-  m_Shader: {fileID: -6465566751694194690, guid: c59228e2f1881574ea837716f384409a,
+  m_Name: Shader Graphs_Water 1
+  m_Shader: {fileID: -6465566751694194690, guid: e745dac13c3424a4dab7d13153234c6d,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 3000
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _SampleTexture2D_939324e58d7041da975026a641b485f1_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4c88721a1911af243a7806ab39d33aac, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _normalMap:
         m_Texture: {fileID: 2800000, guid: b7378f338b8e5834e9380adcd3d86276, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -39,18 +43,19 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _QueueControl: 1
+    - _QueueControl: 0
     - _QueueOffset: 0
-    - _disolve: 0.067
-    - _distortion: 0.47
-    - _normalTiling: 0.25
-    - _normal_strenth: 6.8
-    - _smoothness: 34.7
-    - _vertexDisplacement: 0.003
+    - _disolve: 0
+    - _distortion: 0.1
+    - _normalTiling: 1
+    - _normal_strenth: 1
+    - _smoothness: 0
+    - _transition: 0
+    - _vertexDisplacement: 1
     m_Colors:
-    - _specularColor: {r: 0.18333928, g: 0.3773585, b: 0.3544475, a: 0}
+    - _specularColor: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &2844176654599190877
+--- !u!114 &2401838199467475116
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

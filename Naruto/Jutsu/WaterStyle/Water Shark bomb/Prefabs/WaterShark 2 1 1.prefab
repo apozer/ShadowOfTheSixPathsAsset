@@ -729,14 +729,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: WaterShark
   holderPoint: {fileID: 0}
+  spawnPoint: {fileID: 0}
   additionalHolderPoints: []
   parryPoint: {fileID: 0}
   mainHandleRight: {fileID: 0}
   mainHandleLeft: {fileID: 0}
   flyDirRef: {fileID: 0}
   preview: {fileID: 0}
-  disallowRoomDespawn: 0
-  hanging: 0
+  worldAttached: 0
   creaturePhysicToggleRadius: 2
   useCustomCenterOfMass: 0
   customCenterOfMass: {x: 0, y: 0, z: 0}

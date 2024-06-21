@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
-  m_DefaultGroup: de43681218a0fc2409e418a9cf3027e3
+  m_DefaultGroup: eec51bc1e401f7040b5ae7e02465aa67
   m_CachedHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000
@@ -30,7 +30,7 @@ MonoBehaviour:
   m_StripUnityVersionFromBundleBuild: 1
   m_DisableVisibleSubAssetRepresentations: 0
   m_ShaderBundleNaming: 2
-  m_ShaderBundleCustomNaming: bas
+  m_ShaderBundleCustomNaming: ShadowOfTheSixPaths
   m_MonoScriptBundleNaming: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
@@ -39,48 +39,15 @@ MonoBehaviour:
     m_Id: f0d6e0cdd8192a84f819089abb779b64
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 2
-  m_overridePlayerVersion: bas
+  m_overridePlayerVersion: ShadowOfTheSixPaths
   m_GroupAssets:
-  - {fileID: 11400000, guid: fbe88945f5fd22549a3b2283780ee7c2, type: 2}
   - {fileID: 11400000, guid: cfc7bd780798872419ab40cac555580b, type: 2}
-  - {fileID: 11400000, guid: 7b5cd7845295efe449821e24b3a47891, type: 2}
   - {fileID: 11400000, guid: dada93e4e3a09ef4ba4a1759a0d8f911, type: 2}
   - {fileID: 11400000, guid: 8056bd77f330a8348bb12d7cb956bea0, type: 2}
   - {fileID: 11400000, guid: 256939aa0931a9f448e8a6a0765902d7, type: 2}
   - {fileID: 11400000, guid: 9f937fc8a19b3ae429f92c02db43898a, type: 2}
   - {fileID: 11400000, guid: 6c00cdf8a2c6afb419ce6148fbb245c0, type: 2}
-  - {fileID: 11400000, guid: 1cbfe3a3842f0e547bb344352a88b99b, type: 2}
-  - {fileID: 11400000, guid: a594160ac04c1be4a9acc4c6122953ed, type: 2}
-  - {fileID: 11400000, guid: 90202793340463146b349a0700568e84, type: 2}
-  - {fileID: 11400000, guid: 92895d259cb16fc43be50d1050208e55, type: 2}
-  - {fileID: 11400000, guid: b80440ab508e1cc4fb8ee958c4b7b789, type: 2}
-  - {fileID: 11400000, guid: ebe379b717d6b2c48b6aaefaac1d8a0d, type: 2}
-  - {fileID: 11400000, guid: 3aa89b373a1efa14fafbff5c7372dcc8, type: 2}
-  - {fileID: 11400000, guid: 6d365c0dc0532324e899cfa057d49684, type: 2}
-  - {fileID: 11400000, guid: b08f1e5e1520f074e80acdb0ddb671c9, type: 2}
-  - {fileID: 11400000, guid: 5088161152a501f45a535505b7ed3ecd, type: 2}
-  - {fileID: 11400000, guid: 851661a908877b04fa449c4bec6aea1e, type: 2}
-  - {fileID: 11400000, guid: 90e4c1c48c87cd5469fcc5b7478a5308, type: 2}
-  - {fileID: 11400000, guid: 00080dd5eaf88594b8ac3b5372d73b6b, type: 2}
-  - {fileID: 11400000, guid: 72120b58888e1064f833e64392f6b7e3, type: 2}
-  - {fileID: 11400000, guid: 53753514782f4b54aab1832255592318, type: 2}
-  - {fileID: 11400000, guid: 96f5df46332f5c143a92354addfd92fc, type: 2}
-  - {fileID: 11400000, guid: af6c372f60a9d5c468c97a281e7dbf0f, type: 2}
-  - {fileID: 11400000, guid: 3727da12dfd3ba244af931e0e4898927, type: 2}
-  - {fileID: 11400000, guid: 3197c86ec5041654383fa4a89875fc91, type: 2}
-  - {fileID: 11400000, guid: e285b2c9229bad744b4dbd30f9d059b7, type: 2}
-  - {fileID: 11400000, guid: a19dc6cacab42af46beb847307bf4b56, type: 2}
-  - {fileID: 11400000, guid: 1cfb3b4fcb76b57488d3c0b083d8a767, type: 2}
-  - {fileID: 11400000, guid: 7ebeaff67d496a5488c8470e1d347556, type: 2}
-  - {fileID: 11400000, guid: f3a26f749a957284dafdac961f2905d1, type: 2}
-  - {fileID: 11400000, guid: 9b369e2d588cce846ab15bc5e53ad7ad, type: 2}
-  - {fileID: 11400000, guid: d2fba4d351c1bbb45a74b19fd3b14ee4, type: 2}
-  - {fileID: 11400000, guid: 37d1797fb99cd4148b75245ba6d9cf76, type: 2}
-  - {fileID: 11400000, guid: 489c52152fac8df40b46d20de9914d2b, type: 2}
-  - {fileID: 11400000, guid: 6a1dce99e32e3264398a2b7825163c1b, type: 2}
-  - {fileID: 11400000, guid: 29eff7bece0c19841a0a14b0dcedf4dc, type: 2}
-  - {fileID: 11400000, guid: e9d6f398fee948b4ca5e6a716cbec735, type: 2}
-  - {fileID: 11400000, guid: 73506c337072016438bbf65538b87502, type: 2}
+  - {fileID: 11400000, guid: 9bf9d3d0d1572614d8fee3286ad65395, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -95,7 +62,7 @@ MonoBehaviour:
       - m_Id: ce15733c007f6d84a9cd434894e23ab1
         m_Value: '[ThunderRoad.AssetBundleBuilder.assetsLocalPath]'
       - m_Id: f0d6e0cdd8192a84f819089abb779b64
-        m_Value: '{ThunderRoad.FileManager.aaDefaultPath}'
+        m_Value: '{ThunderRoad.FileManager.aaModPath}/ShadowOfTheSixPaths'
       - m_Id: d8fad135d0762f943a80ca7860c8e9fc
         m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]'
       - m_Id: 3868748ffde3b334bbd8b7acf4ed429e
