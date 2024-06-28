@@ -32,6 +32,31 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
+  - m_GUID: ca06a60f8e7fb1a43a1d41b8b81ad075
+    m_Address: SOTSP.HandSigns.MonkeyLeft
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: dfdd936a3c370004d9052214f985038a
+    m_Address: SOTSP.HandSigns.MonkeyRight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 5f358e408a53ff74c8ed4ea695d1a955
+    m_Address: SOTSOP.Jutsu.Chakra.Rasengan
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 353f48c36d764a24db9a56d600510cc8
+    m_Address: SOTSP.Jutsu.Chakra.Rasengan.SFX.Loop
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: a20dc57993f157542a76cfc0e15f9c74
+    m_Address: SOTSP.Jutsu.Chakra.Rasengan.SFX.Start
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: b14c4d9d8b63f3247be008fe8b53d3ae, type: 2}
   m_SchemaSet:
