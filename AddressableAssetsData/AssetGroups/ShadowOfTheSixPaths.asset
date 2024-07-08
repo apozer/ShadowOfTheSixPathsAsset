@@ -67,6 +67,46 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
+  - m_GUID: 7dba388320253284c9f9d43ee25f8043
+    m_Address: SOTSP.Jutsu.WaterRelease.VFX.WaterMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 9522e4ae15a9c7042893ecfcca1d0188
+    m_Address: SOTSP.Jutsu.WaterRelease.WaterClone.SFX.Splash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 3af60c0820229a9468377a4ab27d8759
+    m_Address: SOTSP.Jutsu.WaterRelease.WaterClone.SFX.Spawn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: cd597b1a4a938a746ac5b986e13381d3
+    m_Address: SOTSP.Jutsu.YangRelease.ShadowClone.VFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 1fb1232be5afc2b49bc27ade9e6a1680
+    m_Address: SOTSP.Jutsu.YangRelease.ShadowClone.SFX.Spawn
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 10de166c561a335408e7cdf817ae7fc1
+    m_Address: SOTSP.Jutsu.YangRelease.ShadowClone.SFX.Death
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 7aabca74aeed68f45ba7093608d4ec2e
+    m_Address: SOTSP.Jutsu.WaterRelease.WaterClone.VFX.Waterfall
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: 1f84ab6c406d4174fafe84f60bcc51ff
+    m_Address: SOTSP.Jutsu.YangRelease.ShadowShuriken.VFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: b14c4d9d8b63f3247be008fe8b53d3ae, type: 2}
   m_SchemaSet:
