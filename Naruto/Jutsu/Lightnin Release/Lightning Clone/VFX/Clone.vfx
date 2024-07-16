@@ -2618,7 +2618,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 1
+      m_SerializableObject: 2.93
     m_Space: 2147483647
   m_Property:
     name: Lifetime
@@ -3635,8 +3635,8 @@ MonoBehaviour:
   - {fileID: 8926484042661615096}
   - {fileID: 8926484042661615118}
   dataType: 1
-  capacity: 2880
-  stripCapacity: 32
+  capacity: 9000
+  stripCapacity: 100
   particlePerStripCount: 90
   needsComputeBounds: 0
   boundsMode: 0
@@ -3723,7 +3723,7 @@ MonoBehaviour:
   - {fileID: 8926484042661615138}
   - {fileID: 8926484042661615142}
   m_UIPosition: {x: 0, y: 0}
-  m_UICollapsed: 1
+  m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_MasterSlot: {fileID: 8926484042661615133}
   m_MasterData:
@@ -3732,7 +3732,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.OrientedBox, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"center":{"x":0.0,"y":0.0,"z":0.0},"angles":{"x":0.0,"y":0.0,"z":0.0},"size":{"x":1.0,"y":1.0,"z":1.0}}'
+      m_SerializableObject: '{"center":{"x":0.0,"y":0.0,"z":0.0},"angles":{"x":0.0,"y":0.0,"z":0.0},"size":{"x":2.0,"y":2.0,"z":2.0}}'
     m_Space: 0
   m_Property:
     name: FieldTransform
@@ -4235,7 +4235,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEditor.VFX.OrientedBox, Unity.VisualEffectGraph.Editor,
           Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"center":{"x":0.0,"y":0.0,"z":0.0},"angles":{"x":0.0,"y":0.0,"z":0.0},"size":{"x":1.0,"y":1.0,"z":0.25}}'
+      m_SerializableObject: '{"center":{"x":0.0,"y":0.0,"z":0.02712923288345337},"angles":{"x":0.0,"y":0.0,"z":0.0},"size":{"x":1.5,"y":1.5,"z":0.5}}'
     m_Space: 0
   m_Property:
     name: FieldTransform
@@ -4674,7 +4674,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 5.5
+      m_SerializableObject: 5
     m_Space: 2147483647
   m_Property:
     name: attractionSpeed

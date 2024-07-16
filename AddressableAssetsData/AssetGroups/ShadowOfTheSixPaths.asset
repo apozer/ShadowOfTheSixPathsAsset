@@ -32,16 +32,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows
-  - m_GUID: ca06a60f8e7fb1a43a1d41b8b81ad075
-    m_Address: SOTSP.HandSigns.MonkeyLeft
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Windows
-  - m_GUID: dfdd936a3c370004d9052214f985038a
-    m_Address: SOTSP.HandSigns.MonkeyRight
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Windows
   - m_GUID: 5f358e408a53ff74c8ed4ea695d1a955
     m_Address: SOTSOP.Jutsu.Chakra.Rasengan
     m_ReadOnly: 0
@@ -104,6 +94,16 @@ MonoBehaviour:
     - Windows
   - m_GUID: 1f84ab6c406d4174fafe84f60bcc51ff
     m_Address: SOTSP.Jutsu.YangRelease.ShadowShuriken.VFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: bfe7c149ecb08804ea97637d3de6d1c9
+    m_Address: SOTSP.Jutsu.LightningRelease.LightningClone.VFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Windows
+  - m_GUID: d60f6cc963ccb2d478a373b7b1718c7d
+    m_Address: SOTSP.Jutsu.Rinnegan.ChakraReceiver
     m_ReadOnly: 0
     m_SerializedLabels:
     - Windows

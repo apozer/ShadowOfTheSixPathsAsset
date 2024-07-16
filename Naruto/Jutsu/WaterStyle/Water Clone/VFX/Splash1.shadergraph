@@ -14,6 +14,9 @@
         },
         {
             "m_Id": "f923376f893e401ab71bb52b98177c83"
+        },
+        {
+            "m_Id": "050d9f9984d74d4489bbfced16fe3816"
         }
     ],
     "m_Keywords": [],
@@ -387,6 +390,33 @@
 }
 
 {
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
+    "m_ObjectId": "050d9f9984d74d4489bbfced16fe3816",
+    "m_Guid": {
+        "m_GuidSerialized": "11178e5b-8382-4056-92a6-96913a693d0d"
+    },
+    "m_Name": "slider",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "slider",
+    "m_DefaultReferenceName": "_slider",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_Value": 0.0,
+    "m_FloatType": 0,
+    "m_RangeValues": {
+        "x": 0.0,
+        "y": 1.0
+    }
+}
+
+{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.SplitNode",
     "m_ObjectId": "0a3502a7c69a41f89d369919ff38f586",
@@ -449,6 +479,9 @@
         },
         {
             "m_Id": "f923376f893e401ab71bb52b98177c83"
+        },
+        {
+            "m_Id": "050d9f9984d74d4489bbfced16fe3816"
         }
     ]
 }
